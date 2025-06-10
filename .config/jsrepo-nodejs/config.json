@@ -1,0 +1,12 @@
+{
+	"/home/runner/workspace-zero-config": {
+		"$schema": "",
+		"includeTests": false,
+		"watermark": false,
+		"paths": {
+			"*": "./src/blocks",
+			"Animations": "HeroSection"
+		},
+		"repos": []
+	}
+}

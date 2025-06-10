@@ -1,0 +1,88 @@
+{
+  "locationCards": [
+    {
+      "id": 1,
+      "name": "Times Square",
+      "slug": "times-square",
+      "image": "/logos/belas.png",
+      "description": "Premium digital billboard location in the heart of Manhattan's entertainment district.",
+      "city": "New York, NY",
+      "numberOfBoards": 12,
+      "featured": true,
+      "dailyTraffic": 350000,
+      "priceRange": "$15K-50K",
+      "primaryType": "LED",
+      "tags": ["Premium", "High Traffic", "Tourist Area"]
+    },
+    {
+      "id": 2,
+      "name": "Sunset Boulevard",
+      "slug": "sunset-boulevard",
+      "image": "/logos/belas.png",
+      "description": "Iconic billboard location on Hollywood's famous Sunset Strip.",
+      "city": "Los Angeles, CA",
+      "numberOfBoards": 8,
+      "featured": true,
+      "dailyTraffic": 200000,
+      "priceRange": "$8K-25K",
+      "primaryType": "LED",
+      "tags": ["Entertainment", "Celebrity", "Hollywood"]
+    },
+    {
+      "id": 3,
+      "name": "Piccadilly Circus",
+      "slug": "piccadilly-circus",
+      "image":"/logos/belas.png",
+      "description": "London's premier advertising location in the heart of the West End.",
+      "city": "London, UK",
+      "numberOfBoards": 6,
+      "featured": true,
+      "dailyTraffic": 280000,
+      "priceRange": "$12K-35K",
+      "primaryType": "LED",
+      "tags": ["International", "Historic", "Tourism"]
+    },
+    {
+      "id": 4,
+      "name": "Shibuya Crossing",
+      "slug": "shibuya-crossing",
+      "image": "/logos/belas.png",
+      "description": "Tokyo's busiest intersection with massive digital billboard presence.",
+      "city": "Tokyo, Japan",
+      "numberOfBoards": 15,
+      "featured": false,
+      "dailyTraffic": 500000,
+      "priceRange": "$10K-40K",
+      "primaryType": "LED",
+      "tags": ["Tech Hub", "Youth Culture", "Pedestrian"]
+    },
+    {
+      "id": 5,
+      "name": "Las Vegas Strip",
+      "slug": "las-vegas-strip",
+      "image": "/logos/belas.png",
+      "description": "Entertainment capital's most vibrant billboard corridor.",
+      "city": "Las Vegas, NV",
+      "numberOfBoards": 20,
+      "featured": false,
+      "dailyTraffic": 320000,
+      "priceRange": "$5K-30K",
+      "primaryType": "LED",
+      "tags": ["Entertainment", "Tourism", "24/7"]
+    },
+    {
+      "id": 6,
+      "name": "Michigan Avenue",
+      "slug": "michigan-avenue",
+      "image": "/logos/belas.png",
+      "description": "Chicago's Magnificent Mile shopping and business district.",
+      "city": "Chicago, IL",
+      "numberOfBoards": 10,
+      "featured": false,
+      "dailyTraffic": 180000,
+      "priceRange": "$6K-20K",
+      "primaryType": "LED",
+      "tags": ["Shopping", "Business", "Luxury"]
+    }
+  ]
+}

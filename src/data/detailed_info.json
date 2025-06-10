@@ -1,0 +1,204 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "name": "Times Square",
+      "location": {
+        "city": "New York",
+        "area": "Times Square",
+        "address": "7th Ave & 47th St",
+        "lat": 40.7589,
+        "lng": -73.9851,
+        "streetViewUrl": "https://maps.app.goo.gl/T3iaexbAbjsuwLLC8"
+      },
+      "specs": {
+        "size": "20ft x 40ft",
+        "type": "LED",
+        "elevation": "50ft",
+        "lighting": "Yes",
+        "rotationInterval": "N/A",
+        "orientation": "North"
+      },
+      "metrics": {
+        "footfall": {
+          "daily": 350000,
+          "weekly": 2450000,
+          "peakHours": ["5:00 PM", "7:00 PM"]
+        },
+        "impressions": {
+          "daily": 1000000,
+          "monthly": 30000000,
+          "cpm": 10.5
+        },
+        "visibility": {
+          "day": {
+            "distance": "500ft",
+            "obstructions": "None"
+          },
+          "night": {
+            "distance": "400ft",
+            "illumination": "High"
+          },
+          "viewingAngles": [30, 45, 60]
+        }
+      },
+      "media": {
+        "images": [
+          "/courses/beat-making.jpg",
+          "/courses/blues.jpg",
+          "/courses/jazz.jpg"
+        ],
+        "panorama": "/logos/belas.png"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sunset Boulevard Billboard",
+      "location": {
+        "city": "Los Angeles",
+        "area": "Hollywood",
+        "address": "Sunset Blvd & Vine St",
+        "lat": 18.6498202,
+        "lng": 73.761845,
+        "streetViewUrl": "https://maps.app.goo.gl/T3iaexbAbjsuwLLC8"
+      },
+      "specs": {
+        "size": "15ft x 30ft",
+        "type": "Static",
+        "elevation": "40ft",
+        "lighting": "Yes",
+        "rotationInterval": "N/A",
+        "orientation": "West"
+      },
+      "metrics": {
+        "footfall": {
+          "daily": 200000,
+          "weekly": 1400000,
+          "peakHours": ["6:00 PM", "8:00 PM"]
+        },
+        "impressions": {
+          "daily": 750000,
+          "monthly": 22500000,
+          "cpm": 8.0
+        },
+        "visibility": {
+          "day": {
+            "distance": "400ft",
+            "obstructions": "Trees"
+          },
+          "night": {
+            "distance": "300ft",
+            "illumination": "Medium"
+          },
+          "viewingAngles": [20, 35, 50]
+        }
+      },
+      "media": {
+        "images": ["/logos/belas.png", "/logos/belas.png"],
+        "panorama": null
+      }
+    },
+    {
+      "id": 3,
+      "name": "Piccadilly Circus Digital Board",
+      "location": {
+        "city": "London",
+        "area": "West End",
+        "address": "Piccadilly Circus, London",
+        "lat": 51.5098,
+        "lng": -0.1344,
+        "streetViewUrl": "https://maps.app.goo.gl/T3iaexbAbjsuwLLC8"
+      },
+      "specs": {
+        "size": "18ft x 35ft",
+        "type": "LED",
+        "elevation": "45ft",
+        "lighting": "Yes",
+        "rotationInterval": "10 seconds",
+        "orientation": "South"
+      },
+      "metrics": {
+        "footfall": {
+          "daily": 280000,
+          "weekly": 1960000,
+          "peakHours": ["7:00 PM", "9:00 PM"]
+        },
+        "impressions": {
+          "daily": 850000,
+          "monthly": 25500000,
+          "cpm": 12.0
+        },
+        "visibility": {
+          "day": {
+            "distance": "450ft",
+            "obstructions": "Minimal"
+          },
+          "night": {
+            "distance": "350ft",
+            "illumination": "High"
+          },
+          "viewingAngles": [25, 40, 55]
+        }
+      },
+      "media": {
+        "images": [
+          "/courses/classical-music.jpg",
+          "/courses/piano.jpg",
+          "/courses/jazz.jpg"
+        ],
+        "panorama": "/logos/belas.png"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Shibuya Crossing LED Display",
+      "location": {
+        "city": "Tokyo",
+        "area": "Shibuya",
+        "address": "Shibuya Crossing, Tokyo",
+        "lat": 35.6598,
+        "lng": 139.7006,
+        "streetViewUrl": "https://maps.app.goo.gl/T3iaexbAbjsuwLLC8"
+      },
+      "specs": {
+        "size": "25ft x 45ft",
+        "type": "LED",
+        "elevation": "60ft",
+        "lighting": "Yes",
+        "rotationInterval": "8 seconds",
+        "orientation": "East"
+      },
+      "metrics": {
+        "footfall": {
+          "daily": 500000,
+          "weekly": 3500000,
+          "peakHours": ["6:00 PM", "8:00 PM"]
+        },
+        "impressions": {
+          "daily": 1200000,
+          "monthly": 36000000,
+          "cpm": 9.5
+        },
+        "visibility": {
+          "day": {
+            "distance": "600ft",
+            "obstructions": "None"
+          },
+          "night": {
+            "distance": "500ft",
+            "illumination": "Very High"
+          },
+          "viewingAngles": [30, 45, 60, 75]
+        }
+      },
+      "media": {
+        "images": [
+          "/courses/edm.jpg",
+          "/courses/drumming.jpg",
+          "/courses/beat-making.jpg"
+        ],
+        "panorama": "/logos/belas.png"
+      }
+    }
+  ]
+}

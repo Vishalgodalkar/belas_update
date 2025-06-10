@@ -1,0 +1,214 @@
+{
+  "serviceInfo": {
+    "title": "EV Cycle Mobile Advertising",
+    "subtitle": "Advertisement that moves with you",
+    "description": "Transform your advertising strategy with our innovative electric cycles equipped with high-impact digital displays, covering prime urban locations with precision and style.",
+    "videoUrl": "/videos/ev-service-demo.mp4",
+    "heroImage": "/images/ev-cycle-hero.jpg"
+  },
+  "features": [
+    {
+      "id": 1,
+      "title": "Customizable Routes",
+      "description": "Design your perfect advertising route through high-traffic areas, business districts, and target demographics with our advanced mapping system.",
+      "icon": "route",
+      "image": "/images/features/custom-routes.jpg",
+      "benefits": [
+        "GPS-tracked route optimization",
+        "Real-time route adjustments",
+        "Target audience mapping",
+        "Peak hour scheduling"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Daily Operations",
+      "description": "Consistent daily coverage with 8-12 hour operational cycles, ensuring maximum brand exposure throughout the day.",
+      "icon": "clock",
+      "image": "/images/features/daily-operations.jpg",
+      "benefits": [
+        "12+ hours daily operation",
+        "Weather-resistant displays",
+        "Professional operators",
+        "Real-time tracking"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Prime Locations",
+      "description": "Strategic coverage of business districts, shopping centers, universities, and high-footfall areas with intelligent route planning.",
+      "icon": "location",
+      "image": "/images/features/prime-locations.jpg",
+      "benefits": [
+        "CBD coverage",
+        "Shopping mall circuits",
+        "University campuses",
+        "Event venues"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Smart Technology",
+      "description": "Advanced electric mobility solution with cutting-edge technology for seamless advertising campaigns.",
+      "icon": "zap",
+      "image": "/images/features/smart-technology.jpg",
+      "benefits": [
+        "Electric powered efficiency",
+        "Smart route optimization",
+        "Modern brand positioning",
+        "Technology-driven approach"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Digital Display Technology",
+      "description": "High-resolution LED displays with dynamic content capabilities and weather protection for maximum visibility.",
+      "icon": "monitor",
+      "image": "/images/features/digital-displays.jpg",
+      "benefits": [
+        "4K LED displays",
+        "Dynamic content updates",
+        "Weather-resistant design",
+        "Night visibility optimization"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Analytics & Reporting",
+      "description": "Comprehensive tracking and analytics to measure campaign effectiveness and optimize your advertising ROI.",
+      "icon": "analytics",
+      "image": "/images/features/analytics.jpg",
+      "benefits": [
+        "Real-time GPS tracking",
+        "Impression analytics",
+        "Route optimization data",
+        "Performance reports"
+      ]
+    }
+  ],
+  "serviceAreas": [
+    {
+      "id": 1,
+      "city": "New York",
+      "zones": ["Manhattan", "Brooklyn", "Queens"],
+      "coverage": "95%",
+      "dailyReach": 250000,
+      "activeCycles": 25,
+      "image": "/images/cities/new-york.jpg"
+    },
+    {
+      "id": 2,
+      "city": "Los Angeles",
+      "zones": ["Downtown", "Hollywood", "Santa Monica"],
+      "coverage": "90%",
+      "dailyReach": 180000,
+      "activeCycles": 20,
+      "image": "/images/cities/los-angeles.jpg"
+    },
+    {
+      "id": 3,
+      "city": "Chicago",
+      "zones": ["Loop", "River North", "Lincoln Park"],
+      "coverage": "85%",
+      "dailyReach": 150000,
+      "activeCycles": 15,
+      "image": "/images/cities/chicago.jpg"
+    }
+  ],
+  "pricingTiers": [
+    {
+      "id": 1,
+      "name": "Starter",
+      "price": 299,
+      "duration": "per day",
+      "features": [
+        "Single route coverage",
+        "8-hour operation",
+        "Basic analytics",
+        "Standard display"
+      ],
+      "popular": false
+    },
+    {
+      "id": 2,
+      "name": "Professional",
+      "price": 799,
+      "duration": "per day",
+      "features": [
+        "Multi-route coverage",
+        "12-hour operation",
+        "Advanced analytics",
+        "Premium display",
+        "Route customization"
+      ],
+      "popular": true
+    },
+    {
+      "id": 3,
+      "name": "Enterprise",
+      "price": 1499,
+      "duration": "per day",
+      "features": [
+        "City-wide coverage",
+        "24/7 operation",
+        "Real-time analytics",
+        "Multiple displays",
+        "Dedicated account manager"
+      ],
+      "popular": false
+    }
+  ],
+  "statistics": {
+    "totalCycles": 60,
+    "citiesCovered": 12,
+    "dailyImpressions": 580000,
+    "campaignsLaunched": 240,
+    "clientSatisfaction": 98
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "company": "TechStart Inc.",
+      "role": "Marketing Director",
+      "content": "The EV cycle advertising campaign exceeded our expectations. We saw a 40% increase in brand awareness in just two weeks.",
+      "rating": 5,
+      "avatar": "/images/testimonials/sarah-johnson.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "company": "Urban Retail Co.",
+      "role": "Brand Manager",
+      "content": "Perfect solution for reaching our target audience. The mobile advertising approach delivered exceptional results.",
+      "rating": 5,
+      "avatar": "/images/testimonials/michael-chen.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "title": "EV Cycle in Times Square",
+      "image": "/images/gallery/times-square.jpg",
+      "description": "Our mobile billboard in action at Times Square"
+    },
+    {
+      "id": 2,
+      "title": "Digital Display Technology",
+      "image": "/images/gallery/digital-display.jpg",
+      "description": "High-resolution LED displays with dynamic content"
+    },
+    {
+      "id": 3,
+      "title": "Route Planning Interface",
+      "image": "/images/gallery/route-planning.jpg",
+      "description": "Advanced mapping and route optimization"
+    },
+    {
+      "id": 4,
+      "title": "City Coverage",
+      "image": "/images/gallery/city-coverage.jpg",
+      "description": "Comprehensive urban area coverage"
+    }
+  ]
+}
